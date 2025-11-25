@@ -1,6 +1,6 @@
 name: Reusable Workflow
 # Define o nome do workflow como "Reusable Workflow".
-#by: felipe i mari 2025 <3
+#by: felipe i mari 2025 <3 ...
 on:
   workflow_call:
     # Especifica que este workflow pode ser chamado de outros workflows.
